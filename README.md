@@ -23,5 +23,5 @@
 - [ ]  JavaScript → provide the functionality of the page
     - [ ]  If I click or do this → this will happen
 - [ ]  Fetch data from an OpenWeather API
-- [ ]  Dynamically update based on the user’s location
-- [ ]  Interactive and much more…
+- [ ]  Update based on the user’s location
+- [ ]  An Interactive webpage and much more…

@@ -16,12 +16,12 @@
     - [ ]  humidity
     - [ ]  Wind
     - [ ]  Pressure
+- [ ]  Fetch data from an OpenWeather API
+- [ ]  Update based on the user’s location
+- [ ]  An Interactive webpage and much more…
 ---
 - [ ]  Consist of HTML, CSS, JavaScript
 - [ ]  HTML → will be the structure and skeleton of how the app will appear on the webpage
 - [ ]  CSS → encompass the style of the app and give it some flare
 - [ ]  JavaScript → provide the functionality of the page
     - [ ]  If I click or do this → this will happen
-- [ ]  Fetch data from an OpenWeather API
-- [ ]  Update based on the user’s location
-- [ ]  An Interactive webpage and much more…

@@ -20,7 +20,10 @@
 - [ ]  Update based on the user’s location
 - [ ]  An Interactive webpage and much more…
 ---
-- [ ]  Encompass HTML, CSS, JavaScript
+- [ ]  Encompass 
+    - [ ] HTML 
+    - [ ] CSS
+    - [ ] JavaScript
 - [ ]  HTML → will be the structure and skeleton of how the app will appear on the webpage
 - [ ]  CSS → encompass the style of the app and give it some flare
 - [ ]  JavaScript → provide the functionality of the page

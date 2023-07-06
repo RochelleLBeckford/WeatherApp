@@ -20,7 +20,7 @@
 - [ ]  Update based on the user’s location
 - [ ]  An Interactive webpage and much more…
 ---
-- [ ]  Encompass 
+- [ ]  Encompass: 
     - [ ] HTML 
     - [ ] CSS
     - [ ] JavaScript

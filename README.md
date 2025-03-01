@@ -1,4 +1,4 @@
-# WeatherApp
+# Weather App
 <!-- can have readme preview open as well to see how it will appear -->
 <!-- ## this is a sub heading -->
 ## *Build a Weather application* 
